@@ -1,7 +1,7 @@
 from PIL import Image, ImageFilter
 # we had to install Pillow Libray
 
-#1234567
+#123456789
 img =  Image.open('.\Pokedex\pikachu.jpg')
 
 # print(img.size) # .format , .size , .mode ,
